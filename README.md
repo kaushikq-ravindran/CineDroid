@@ -64,10 +64,6 @@ Add `PopularMoviesApp_ApiKey = "YOUR-API-KEY"`.
 - [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 - [Material Design](https://material.io/develop/)
 
-## External Resources
-- [stackoverflow](https://stackoverflow.com/questions/37741872/how-to-make-custom-dotted-progress-bar-in-android) - for custom dotted progress bar
-- [github/android](https://github.com/android/architecture-components-samples) - Proper use of Architecture Components
-- [CodingWithMitch/courses](https://codingwithmitch.com/courses/) 
 
 **Popular Movies uses the TMDb API but is not endorsed or certified by TMDb.**
 
